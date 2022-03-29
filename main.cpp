@@ -1,4 +1,4 @@
-//Lee Reyes Lab 8A due 12/7/2021
+//Lee Reyes
 #include <iostream>
 #include <string>
 #include <iomanip>
